@@ -1,0 +1,9 @@
+bottleneck
+cx_oracle
+numexpr
+numpy
+pandas
+scipy
+scikit-learn
+tables
+ipython[notebook]
